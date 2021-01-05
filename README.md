@@ -1,2 +1,1 @@
 # RYEarthquakes.io
-# RYEarthquakes.io
